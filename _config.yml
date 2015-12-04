@@ -29,7 +29,7 @@ keywords: "smith, jones, personal, jekyll, theme"
 
 black-favicon: False
 background-img: "https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg"
-me-img: "https://github.com/VincentBonhomme/vincentbonhomme.io/blob/master/img/profil.png"
+me-img: "vincentbonhomme.io/img/profil.png"
 
 ##############################
 # Dynamic Text on the header #
