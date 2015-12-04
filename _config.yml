@@ -1,14 +1,14 @@
 
 # Site settings
 
-url: "http://vincentbonhomme.github.io/vincentbonhomme.io"
+url: "https://github.com/VincentBonhomme/vincentbonhomme.io.git"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: http://vincentbonhomme.github.io/vincentbonhomme.io
+baseurl: "http://vincentbonhomme.github.io/vincentbonhomme.io"
 
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
