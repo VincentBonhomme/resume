@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "http://vincentbonhomme.github.io"
+url: "https://github.com/VincentBonhomme/resume.git"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -28,8 +28,8 @@ keywords: "vincent, bonhomme"
 ################
 
 black-favicon: False
-background-img: "https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg"
-me-img: "http://vincentbonhomme.github.io/resume/img/profil.png"
+background-img: "(https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg)"
+me-img: "(http://vincentbonhomme.github.io/resume/img/profil.png)"
 
 ##############################
 # Dynamic Text on the header #
