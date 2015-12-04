@@ -1,14 +1,14 @@
 
 # Site settings
 
-url: "https://github.com/VincentBonhomme/vincentbonhomme.io.git"
+url: "https://github.com/VincentBonhomme/resume.git"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: "http://vincentbonhomme.github.io/vincentbonhomme.io"
+baseurl: "/resume"
 
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
@@ -21,7 +21,7 @@ lang: "Fr"
 title: "{Vincent Bonhomme}"
 favicon:
 description: "Blog and website of VincentBonhomme, Web designer."
-keywords: "smith, jones, personal, jekyll, theme"
+keywords: "vincent, bonhomme"
 
 ################
 # Intro layout #
