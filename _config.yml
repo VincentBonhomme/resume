@@ -29,6 +29,7 @@ keywords: "vincent, bonhomme"
 
 black-favicon: False
 background-img: "https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg"
+me-img: "_site/resume/img/profil.png"
 
 ##############################
 # Dynamic Text on the header #
