@@ -8,7 +8,7 @@ url: "http://vincentbonhomme.github.io/resume/"
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: "/resume"
+baseurl: "http://vincentbonhomme.github.io/resume"
 
 google-tracking-id: "<YOUR GOOGLE TRACKING ID>"
 
@@ -84,7 +84,7 @@ events:
     description: "Obtaining of a Licence in Journalism at ISCPA PARIS (Institut Supérieur des Médias)"
 
 # First image of the Career timeline
-career-img: "resume/img/career/time.jpg"
+career-img: "/img/career/time.jpg"
 
 ##################
 # Contact layout #
