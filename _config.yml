@@ -28,8 +28,8 @@ keywords: "vincent, bonhomme"
 ################
 
 black-favicon: False
-background-img: "(https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg)"
-me-img: "(http://vincentbonhomme.github.io/resume/img/profil.png)"
+background-img: "https://github.com/VincentBonhomme/vincentbonhomme.io/img/home-2.jpg"
+me-img: "http://vincentbonhomme.github.io/resume/img/profil.png"
 
 ##############################
 # Dynamic Text on the header #
@@ -84,7 +84,7 @@ events:
     description: "Obtaining of a Licence in Journalism at ISCPA PARIS (Institut Supérieur des Médias)"
 
 # First image of the Career timeline
-career-img: "/img/career/time.jpg"
+career-img: "resume/img/career/time.jpg"
 
 ##################
 # Contact layout #
